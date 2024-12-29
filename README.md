@@ -1,2 +1,3 @@
-# hr-app-apex
-Oracle APEX app for HR management
+# HR APEX Application
+
+This repository contains an Oracle APEX application built on the Oracle HR sample schema. 
